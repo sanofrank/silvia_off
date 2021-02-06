@@ -1,17 +1,25 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Title msg="Hi! Nice to meet you :)"/>
+    <div>
+      <img alt="Vue logo" src="./assets/animation.gif">
+    </div>    
+    <description></description>
+    <footer-social></footer-social>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Title from './components/Title.vue'
+import Description from './components/Description'
+import FooterSocial from './components/FooterSocial'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Title,
+    Description,
+    FooterSocial
   }
 }
 </script>
@@ -24,5 +32,12 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  display: contents;
 }
+
+img{
+  height: auto;
+  width: 400px;
+  max-width: 100%;
+  }
 </style>
