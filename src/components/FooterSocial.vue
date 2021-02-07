@@ -7,7 +7,7 @@
 
 <style scoped>
 .social{
-    margin: 0 2rem;
+    margin: 1rem 2rem;
     color: black;
 }
 
