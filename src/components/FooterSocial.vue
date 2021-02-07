@@ -6,8 +6,12 @@
 </template>
 
 <style scoped>
+footer{
+    margin: 1rem
+}
+
 .social{
-    margin: 1rem 2rem;
+    margin: 0 2rem;
     color: black;
 }
 

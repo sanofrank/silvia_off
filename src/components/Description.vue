@@ -1,6 +1,6 @@
 <template>
     <div>
         <h1>This site is currently under construction</h1>
-        <h2>If you are looking for some of my stuff, take a look on my social</h2>
+        <h2>If you are curious to see some of my works, take a look at my social</h2>
     </div>
 </template>
