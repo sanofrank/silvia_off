@@ -1,7 +1,7 @@
 <template>
     <footer>
-        <a class = 'social' href="https://www.behance.net/silviarighetti" target="_blank"><i class="fab fa-instagram fa-3x"></i></a>
-        <a class = 'social' href="https://www.instagram.com/silvia_righetti/" target="_blank"><i class="fab fa-behance fa-3x"></i></a>
+        <a class = 'social' href="https://www.instagram.com/silvia_righetti/" target="_blank"><i class="fab fa-instagram fa-3x"></i></a>
+        <a class = 'social' href="https://www.behance.net/silviarighetti" target="_blank"><i class="fab fa-behance fa-3x"></i></a>
     </footer>
 </template>
 
